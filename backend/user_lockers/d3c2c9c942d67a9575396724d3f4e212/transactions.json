@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Coffee",
+      "description": "Ghar ki",
+      "amount": 50.0,
+      "date": "2025-11-18",
+      "category": "Food & Dining",
+      "original_category": "Food & Dining",
+      "created_at": "2025-11-18T06:48:18.274042"
+    },
+    {
+      "id": 2,
+      "name": "shoes",
+      "description": "Step in",
+      "amount": 1500.0,
+      "date": "2025-11-18",
+      "category": "Other",
+      "original_category": "Other",
+      "created_at": "2025-11-18T06:49:08.140256"
+    }
+  ],
+  "_last_updated": "2025-11-18T06:49:08.160836"
+}

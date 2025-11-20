@@ -1,0 +1,12 @@
+{
+  "user_id": "d3c2c9c942d67a9575396724d3f4e212",
+  "username": "goyaldhruvgzb@gmail.com",
+  "passkey_hash": "9fffd6ec81e72217e195218a9b727601886002d90ae7f9c32d95b3195f4654e3",
+  "created_at": "2025-11-18T06:46:05.063423",
+  "last_accessed": "2025-11-18T14:30:06.802152",
+  "data_files": [
+    "transactions",
+    "budgets",
+    "profile"
+  ]
+}

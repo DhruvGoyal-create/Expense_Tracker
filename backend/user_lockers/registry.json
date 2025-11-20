@@ -1,0 +1,19 @@
+{
+  "created_at": "2025-11-18T03:56:32.397120",
+  "total_users": 3,
+  "max_users": 100,
+  "users": {
+    "goyaldhruvgzb@gmail.com": {
+      "user_id": "d3c2c9c942d67a9575396724d3f4e212",
+      "created_at": "2025-11-18T06:46:05.065130"
+    },
+    "harsh@gmail.com": {
+      "user_id": "62970b306134ed1bb4d86fdcf59800c1",
+      "created_at": "2025-11-18T13:29:49.487402"
+    },
+    "anas@gmail.com": {
+      "user_id": "3261dc1af75c105c18c7ac92a6624940",
+      "created_at": "2025-11-18T13:39:40.952730"
+    }
+  }
+}

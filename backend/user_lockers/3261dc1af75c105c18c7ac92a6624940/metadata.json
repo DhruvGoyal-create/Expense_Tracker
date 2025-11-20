@@ -1,0 +1,12 @@
+{
+  "user_id": "3261dc1af75c105c18c7ac92a6624940",
+  "username": "anas@gmail.com",
+  "passkey_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+  "created_at": "2025-11-18T13:39:40.950302",
+  "last_accessed": "2025-11-18T14:26:43.086857",
+  "data_files": [
+    "transactions",
+    "budgets",
+    "profile"
+  ]
+}
