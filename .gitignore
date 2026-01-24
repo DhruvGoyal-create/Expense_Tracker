@@ -1,0 +1,22 @@
+# ===== Global =====
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# ===== Frontend =====
+frontend/node_modules/
+frontend/build/
+
+# ===== Backend =====
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# ===== Python =====
+__pycache__/
+*.pyc
+
+# ===== Logs =====
+*.log
