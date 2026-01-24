@@ -1,0 +1,12 @@
+{
+  "user_id": "a64054cf5a4330eff661eec935e7ce3b",
+  "username": "goyaldhruv@gmail.com",
+  "passkey_hash": "c2681be24191798485480dfca8744334d10e0eae0bd5bac6f164ab25d41d753e",
+  "created_at": "2026-01-22T10:44:12.036842",
+  "last_accessed": "2026-01-22T10:44:26.405888",
+  "data_files": [
+    "transactions",
+    "budgets",
+    "profile"
+  ]
+}
